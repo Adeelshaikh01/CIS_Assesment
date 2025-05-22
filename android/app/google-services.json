@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701190710108",
+    "project_id": "cisapp-ab2ad",
+    "storage_bucket": "cisapp-ab2ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701190710108:android:e0330787d059bb00cb1799",
+        "android_client_info": {
+          "package_name": "com.cis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9RFqUXZTaBAvkRSScG8DpBi2T1BibqM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
